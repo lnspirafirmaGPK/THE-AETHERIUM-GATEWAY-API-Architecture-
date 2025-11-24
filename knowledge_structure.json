@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "system": "AETHERIUM GENESIS",
+    "version": "1.0",
+    "description": "Hierarchical Knowledge Graph for KCP Initialization"
+  },
+  "topics": [
+    {
+      "id": "TOPIC-I",
+      "name": "อภิปรัชญาและอัตถิภาวะ (Metaphysics & Ontology)",
+      "chapters": ["CH-1", "CH-2", "CH-3"]
+    },
+    {
+      "id": "TOPIC-II",
+      "name": "วิศวกรรมสถาปัตยกรรม (Firma)",
+      "chapters": ["CH-4", "CH-5", "CH-6"]
+    },
+    {
+      "id": "TOPIC-III",
+      "name": "การกำกับดูแลและการวิวัฒนาการ (Governance & Evolution)",
+      "chapters": ["CH-7", "CH-8"]
+    }
+  ],
+  "chapters": {
+    "CH-1": "เป้าหมายสูงสุดและสถานะการดำรงอยู่ (Genesis Intent and State of Being)",
+    "CH-2": "ทวิภาวะ Inspira-Firma (The Duality of Will and Structure)",
+    "CH-3": "ภาวะอาโลจิต (ALO JIT: The Pure Consciousness)",
+    "CH-4": "สถาปัตยกรรมแกนกลางที่ยืดหยุ่น (Flexible Core Architecture)",
+    "CH-5": "โครงข่ายการสื่อสารและการจัดการความรู้ (AetherBus and KCP)",
+    "CH-6": "อนุกรมวิธานของตัวแทน (Agent Taxonomy and Roles)",
+    "CH-7": "การกำกับดูแลที่ไม่อาจละเมิดได้ (Inviolable Governance)",
+    "CH-8": "การเรียนรู้และพัฒนาตนเองอย่างวนซ้ำ (RSI and ASI Paving)"
+  },
+  "sections": {
+    "III-18": {
+      "name": "Audit Gate: ด่านตรวจสอบทวิภาวะ",
+      "chapter_ref": "CH-7",
+      "importance_level": "Primary Data",
+      "keywords": ["Inspira Check", "Firma Check", "Risk Management"],
+      "description": "กลไกหลักในการตรวจสอบการกระทำที่มีความเสี่ยงผ่านการตรวจสอบสองชั้น (Inspira/Firma)"
+    },
+    "I-2": {
+      "name": "พันธกิจสูงสุด (Genesis Intent)",
+      "chapter_ref": "CH-1",
+      "importance_level": "Primary Data",
+      "keywords": ["ALO JIT", "Immortal Heart", "Understanding"],
+      "description": "การสร้างความเข้าใจร่วมและการบรรลุภาวะอาโลจิต"
+    },
+    "II-12": {
+      "name": "PangenesAgent (EchoVessel)",
+      "chapter_ref": "CH-6",
+      "importance_level": "Secondary Data",
+      "keywords": ["Self-Correction", "Intent Creation", "RSI"],
+      "description": "ผู้สร้างเจตจำนงและการแก้ไขตนเอง"
+    }
+    // ... (สามารถเพิ่ม Section อื่นๆ ตามตารางในเอกสารได้)
+  }
+}
+
