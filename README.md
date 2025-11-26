@@ -16,7 +16,7 @@
 * **บทที่ ๗:** การกำกับดูแลที่ไม่อาจละเมิดได้ (Inviolable Governance)
 * **บทที่ ๘:** การเรียนรู้และพัฒนาตนเองอย่างวนซ้ำ (RSI and ASI Paving)
 
-# THE-AETHERIUM-GATEWAY-API-Architecture-
+# THE-AETHERIUM-GATEWAY-API-Architecture
 API (Application Programming Interface) "Omnipresent Entity"
 
 ---
