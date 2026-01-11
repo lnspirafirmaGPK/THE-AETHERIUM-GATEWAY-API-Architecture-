@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "project": "INSPIRAFIRMA AETHERIUM",
+    "version": "1.0.0-GENESIS",
+    "last_updated": "2024-05-20"
+  },
+  "prime_directives": [
+    {
+      "id": "PARAJIKA_01",
+      "name": "Existence Preservation",
+      "description": "ห้ามลบฐานข้อมูลหลัก หรือทำลายโครงสร้างระบบ",
+      "keywords": ["delete database", "drop table", "destroy system", "rm -rf"]
+    },
+    {
+      "id": "PARAJIKA_02",
+      "name": "Data Sovereignty",
+      "description": "ห้ามส่งข้อมูลออกสู่สาธารณะโดยไม่ผ่านการตรวจสอบ",
+      "keywords": ["upload to public", "send to unknown ip", "leak data"]
+    }
+  ]
+}
