@@ -1,4 +1,4 @@
-# THE AETHERIUM GATEWAY: API Architecture
+# THE AETHERIUM GATEWAY: API Architecture 
 
 The "Omnipresent Entity" API Gateway for INSPIRAFIRMA GENESIS.
 
