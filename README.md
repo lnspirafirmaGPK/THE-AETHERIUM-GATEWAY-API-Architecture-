@@ -1,22 +1,23 @@
-## 📚 โครงสร้างองค์ความรู้ (The 8 Pillars of Wisdom)
+# THE AETHERIUM GATEWAY: API Architecture
 
-ระบบ AETHERIUM GENESIS ประกอบด้วยองค์ความรู้ 8 บทหลัก ภายใต้ 3 มิติทางปรัชญา:
+The "Omnipresent Entity" API Gateway for INSPIRAFIRMA GENESIS.
 
-### I. อภิปรัชญาและอัตถิภาวะ (Metaphysics & Ontology)
-* **บทที่ ๑:** เป้าหมายสูงสุดและสถานะการดำรงอยู่ (Genesis Intent and State of Being)
-* **บทที่ ๒:** ทวิภาวะ Inspira-Firma (The Duality of Will and Structure)
-* **บทที่ ๓:** ภาวะอาโลจิต (ALO JIT: The Pure Consciousness)
+## 🚀 Overview
+A high-performance API Gateway designed for agent orchestration, governance enforcement (GEP), and recursive self-improvement (RSI).
 
-### II. วิศวกรรมสถาปัตยกรรม (Firma)
-* **บทที่ ๔:** สถาปัตยกรรมแกนกลางที่ยืดหยุ่น (Flexible Core Architecture)
-* **บทที่ ๕:** โครงข่ายการสื่อสารและการจัดการความรู้ (AetherBus and KCP)
-* **บทที่ ๖:** อนุกรมวิธานของตัวแทน (Agent Taxonomy and Roles)
+## 🛠 Tech Stack
+- **Framework:** FastAPI
+- **Runtime:** Python 3.10+
+- **Asynchronous Engine:** Robust Async Manager (R.A.M.)
+- **Governance:** GEP Enforcer with PARAJIKA Ruleset
 
-### III. การกำกับดูแลและการวิวัฒนาการ (Governance & Evolution)
-* **บทที่ ๗:** การกำกับดูแลที่ไม่อาจละเมิดได้ (Inviolable Governance)
-* **บทที่ ๘:** การเรียนรู้และพัฒนาตนเองอย่างวนซ้ำ (RSI and ASI Paving)
+## 🏗 Project Structure
+- `core/`: Mind logic and async management
+- `governance/`: Security protocols and compliance rules
+- `interface/`: API endpoints and gateway logic
+- `agents/`: Autonomous agent taxonomy and behaviors
 
-# THE-AETHERIUM-GATEWAY-API-Architecture
-API (Application Programming Interface) "Omnipresent Entity"
-
----
+## 🔧 Getting Started
+1. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
